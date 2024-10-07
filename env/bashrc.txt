@@ -25,6 +25,7 @@ alias mv='mv -i'
 #
 # Sfecific Configuration
 #
+# PS 변수 설정
 export PS1='\[\e[31;1m\][\u@\h\[\e[33;1m\] \w]\$ \[\e[m\]'
 alias ls='ls -h --color=auto'
 alias pps='ps -ef | head -1 ; ps -ef | grep $1'
