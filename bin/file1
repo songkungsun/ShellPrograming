@@ -1,0 +1,55 @@
+root:x:0:0:root:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin
+adm:x:3:4:adm:/var/adm:/sbin/nologin
+lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+sync:x:5:0:sync:/sbin:/bin/sync
+shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+halt:x:7:0:halt:/sbin:/sbin/halt
+mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+operator:x:11:0:operator:/root:/sbin/nologin
+games:x:12:100:games:/usr/games:/sbin/nologin
+ftp:x:14:50:FTP User:/var/ftp:/sbin/nologin
+nobody:x:65534:65534:Kernel Overflow User:/:/sbin/nologin
+tss:x:59:59:Account used for TPM access:/:/usr/sbin/nologin
+systemd-coredump:x:999:997:systemd Core Dumper:/:/sbin/nologin
+dbus:x:81:81:System message bus:/:/sbin/nologin
+polkitd:x:998:996:User for polkitd:/:/sbin/nologin
+avahi:x:70:70:Avahi mDNS/DNS-SD Stack:/var/run/avahi-daemon:/sbin/nologin
+geoclue:x:997:995:User for geoclue:/var/lib/geoclue:/sbin/nologin
+cockpit-wsinstance:x:996:993:User for cockpit-ws instances:/nonexisting:/sbin/nologin
+rtkit:x:172:172:RealtimeKit:/proc:/sbin/nologin
+libstoragemgmt:x:991:991:daemon account for libstoragemgmt:/:/usr/sbin/nologin
+colord:x:990:990:User for colord:/var/lib/colord:/sbin/nologin
+sssd:x:989:989:User for sssd:/:/sbin/nologin
+clevis:x:988:988:Clevis Decryption Framework unprivileged user:/var/cache/clevis:/usr/sbin/nologin
+setroubleshoot:x:987:987:SELinux troubleshoot server:/var/lib/setroubleshoot:/usr/sbin/nologin
+pipewire:x:986:986:PipeWire System Daemon:/run/pipewire:/usr/sbin/nologin
+flatpak:x:985:985:User for flatpak system helper:/:/sbin/nologin
+gdm:x:42:42::/var/lib/gdm:/sbin/nologin
+gnome-initial-setup:x:984:983::/run/gnome-initial-setup/:/sbin/nologin
+chrony:x:983:982:chrony system user:/var/lib/chrony:/sbin/nologin
+sshd:x:74:74:Privilege-separated SSH:/usr/share/empty.sshd:/usr/sbin/nologin
+dnsmasq:x:982:981:Dnsmasq DHCP and DNS server:/var/lib/dnsmasq:/usr/sbin/nologin
+tcpdump:x:72:72::/:/sbin/nologin
+apache:x:48:48:Apache:/usr/share/httpd:/sbin/nologin
+saslauth:x:981:76:Saslauthd user:/run/saslauthd:/sbin/nologin
+mailnull:x:47:47::/var/spool/mqueue:/sbin/nologin
+smmsp:x:51:51::/var/spool/mqueue:/sbin/nologin
+rpc:x:32:32:Rpcbind Daemon:/var/lib/rpcbind:/sbin/nologin
+rpcuser:x:29:29:RPC Service User:/var/lib/nfs:/sbin/nologin
+nginx:x:980:978:Nginx web server:/var/lib/nginx:/sbin/nologin
+stapunpriv:x:159:159:systemtap unprivileged user:/var/lib/stapunpriv:/sbin/nologin
+pesign:x:979:977:Group for the pesign signing daemon:/run/pesign:/sbin/nologin
+postfix:x:89:89::/var/spool/postfix:/sbin/nologin
+fedora:x:1000:1000::/home/fedora:/bin/bash
+named:x:25:25:Named:/var/named:/sbin/nologin
+ftpupload:x:978:976::/var/ftp/pub/incoming:/sbin/nologin
+dovecot:x:97:97:Dovecot IMAP server:/usr/libexec/dovecot:/sbin/nologin
+dovenull:x:977:975:Dovecot - unauthorized user:/usr/libexec/dovecot:/sbin/nologin
+user01:x:1001:1001::/home/user01:/bin/bash
+user02:x:1002:1002::/home/user02:/bin/bash
+smbuser1:x:1003:1003::/home/smbuser1:/sbin/nologin
+smbuser2:x:1004:1004::/home/smbuser2:/sbin/nologin
+smbuser3:x:1005:1005::/home/smbuser3:/sbin/nologin
+smbuser4:x:1006:1006::/home/smbuser4:/sbin/nologin

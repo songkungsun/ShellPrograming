@@ -1,0 +1,103 @@
+2024-10-02 15:21:48.026 [info] [main] 로그 수준: Info
+2024-10-02 15:21:48.026 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2024-10-02 15:21:48.026 [info] [main] "2.43.5"에서 git "git"을(를) 사용하는 중
+2024-10-02 15:21:48.026 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-02 15:21:48.030 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-02 15:21:48.030 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:21:48.036 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 15:21:48.036 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:21:48.037 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-02 15:21:49.053 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:21:49.053 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:22:46.003 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:22:46.003 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.584 [info] [main] 로그 수준: Info
+2024-10-02 15:23:10.584 [info] [main] "git"에서 찾은 git 유효성을 검사하는 중
+2024-10-02 15:23:10.584 [info] [main] "2.43.5"에서 git "git"을(를) 사용하는 중
+2024-10-02 15:23:10.584 [info] [Model][doInitialScan] Initial repository scan started
+2024-10-02 15:23:10.584 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-02 15:23:10.584 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.594 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.594 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.598 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.598 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.601 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.602 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.605 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.605 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.608 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.608 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.613 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.613 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.616 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.619 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.619 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.622 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.622 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.625 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.625 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.629 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.633 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 15:23:10.633 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.636 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.636 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.641 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-02 15:23:10.645 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-10-02 15:23:10.652 [info] [Model][openRepository] Opened repository: /root/project
+2024-10-02 15:23:10.659 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.659 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.659 [info] > git config --get commit.template [3ms]
+2024-10-02 15:23:10.668 [info] > git rev-parse --show-toplevel [5ms]
+2024-10-02 15:23:10.668 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.674 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.674 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.678 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2024-10-02 15:23:10.685 [info] > git rev-parse --show-toplevel [8ms]
+2024-10-02 15:23:10.685 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.691 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-02 15:23:10.692 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.696 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.696 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.699 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.699 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.701 [info] > git status -z -uall [10ms]
+2024-10-02 15:23:10.712 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2024-10-02 15:23:10.715 [info] > git rev-parse --show-toplevel [14ms]
+2024-10-02 15:23:10.715 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.721 [info] > git config --local branch.main.vscode-merge-base [5ms]
+2024-10-02 15:23:10.721 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 15:23:10.724 [info] > git config --get commit.template [12ms]
+2024-10-02 15:23:10.725 [info] > git rev-parse --show-toplevel [7ms]
+2024-10-02 15:23:10.725 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.731 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-10-02 15:23:10.731 [info] > git reflog main --grep-reflog=branch: Created from *. [7ms]
+2024-10-02 15:23:10.734 [info] > git rev-parse --show-toplevel [3ms]
+2024-10-02 15:23:10.734 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.773 [info] > git rev-parse --show-toplevel [38ms]
+2024-10-02 15:23:10.773 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.773 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [40ms]
+2024-10-02 15:23:10.773 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-02 15:23:10.782 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2024-10-02 15:23:10.785 [info] > git status -z -uall [6ms]
+2024-10-02 15:23:10.790 [info] > git rev-parse --show-toplevel [9ms]
+2024-10-02 15:23:10.790 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.794 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2024-10-02 15:23:10.797 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [13ms]
+2024-10-02 15:23:10.800 [info] > git config --local branch.main.vscode-merge-base [3ms]
+2024-10-02 15:23:10.800 [warning] [Git][config] git config failed: Failed to execute git
+2024-10-02 15:23:10.803 [info] > git rev-parse --show-toplevel [9ms]
+2024-10-02 15:23:10.803 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.805 [info] > git diff --name-status -z --diff-filter=ADMR da2fa02fcb654d0ca2dc55cbf8749adc784c1437...refs/remotes/origin/main [6ms]
+2024-10-02 15:23:10.806 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:10.806 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:10.807 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-10-02 15:23:10.807 [info] > git reflog main --grep-reflog=branch: Created from *. [4ms]
+2024-10-02 15:23:10.810 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [1ms]
+2024-10-02 15:23:10.811 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2024-10-02 15:23:11.169 [info] > git check-ignore -v -z --stdin [2ms]
+2024-10-02 15:23:27.246 [info] > git rev-parse --show-toplevel [2ms]
+2024-10-02 15:23:27.246 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-10-02 15:23:34.676 [info] > git rev-parse --show-toplevel [1ms]
+2024-10-02 15:23:34.676 [info] fatal: not a git repository (or any of the parent directories): .git

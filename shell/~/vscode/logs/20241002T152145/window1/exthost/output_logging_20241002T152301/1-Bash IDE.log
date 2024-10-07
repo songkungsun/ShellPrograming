@@ -1,0 +1,122 @@
+[Warn  - 오후 3:23:27] 06:23:27.645 WARNING ⛔️ Environment variable configuration is being deprecated, please use workspace configuration. The following environment variables were used: shfmt
+[Info  - 오후 3:23:27] 06:23:27.668 INFO BackgroundAnalysis: resolving glob "**/*@(.sh|.inc|.bash|.command)" inside "file:///root"...
+[Info  - 오후 3:23:27] 06:23:27.742 INFO BackgroundAnalysis: Glob resolved with 500 files after 0.074 seconds
+[Warn  - 오후 3:23:27] 06:23:27.775 WARNING ⛔️ Error while parsing file:///root/scripts/filesize.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.799 WARNING ⛔️ Error while parsing file:///root/shell/move_filename.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.826 WARNING ⛔️ file:///root/shell/project01/cherck_network.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:27] 06:23:27.838 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-16e96fa9/IQbz.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.847 WARNING ⛔️ file:///root/~/vscode/User/History/-16e9e408/6Q0t.sh line 6: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.848 WARNING ⛔️ file:///root/~/vscode/User/History/-16e9e408/6atS.sh line 6: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.849 WARNING ⛔️ file:///root/~/vscode/User/History/-16e9e408/CNAs.sh line 6: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.853 WARNING ⛔️ file:///root/~/vscode/User/History/-16e9e408/PO6T.sh line 6: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.856 WARNING ⛔️ file:///root/~/vscode/User/History/-16e9e408/eSr9.sh line 6: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.864 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-2942d30a/8sEo.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.873 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-2942d30a/V64z.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.873 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-2942d30a/VPWM.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.919 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-55d763a/bNBX.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.922 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/8XaW.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.923 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/Di1M.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.924 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/NHf3.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.926 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/VSdp.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.927 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/fQeS.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.928 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/u2p8.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.929 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-56f6180b/w03U.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.940 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/3HdI.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.941 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/H02q.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.942 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/I0kx.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.943 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/IsPS.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.944 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/RZ63.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.944 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/W0Vh.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.945 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/aMTw.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.946 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/cbX9.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.946 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/fxEg.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.947 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/kfur.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.948 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/pqZb.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.949 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/qkzW.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.950 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5786d840/qpdr.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.952 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5e7f2ec/DSkT.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.953 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5e7f2ec/GAks.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.954 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/-5e7f2ec/f33g.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.956 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/13d5d982/0FCQ.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.962 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/14e8549e/OEF4.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.963 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/14e8549e/ak3i.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.971 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/1CJd.sh line 10: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.973 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/71Dj.sh line 10: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.974 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/7Gyo.sh line 13: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.977 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/ANcJ.sh line 10: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.978 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/EZaW.sh line 11: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.979 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/O7sO.sh line 13: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.983 WARNING ⛔️ file:///root/~/vscode/User/History/1904ce39/hKKG.sh line 11: failed to resolve path
+[Warn  - 오후 3:23:27] 06:23:27.987 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1913d6e2/KIqc.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.990 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/19144b41/80yI.sh: syntax error
+[Warn  - 오후 3:23:27] 06:23:27.994 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/19144b41/Feb8.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.006 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1b1826a7/03MN.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.008 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1b1826a7/2t0p.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.010 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1b1826a7/4XnC.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.016 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1b1826a7/Uijc.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.017 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1b1826a7/VDYd.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.045 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/1b1826a7/wGYy.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.046 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/3jLa.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.048 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/8NtL.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.048 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/AaRj.sh line 11: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.048 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/26e86cf3/AaRj.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.049 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/DDvs.sh line 11: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.049 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/26e86cf3/DDvs.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.049 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/K19I.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.051 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/XUu3.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.052 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/cufN.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.053 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/hHKZ.sh line 11: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.053 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/26e86cf3/hHKZ.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.053 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/lddl.sh line 11: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.054 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/o7VZ.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.055 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/v7kP.sh line 10: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.056 WARNING ⛔️ file:///root/~/vscode/User/History/26e86cf3/ycMF.sh line 11: non-constant source not supported
+[Warn  - 오후 3:23:28] 06:23:28.059 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/2a076e89/AYZn.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.062 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/2a076e89/Xv89.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.090 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/3e38ca1a/eVue.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.104 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/3e38ca1a/pgf0.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.105 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/3e38ca1a/tqPD.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.107 WARNING ⛔️ Error while parsing file:///root/~/vscode/User/History/3e38ca1a/waXz.sh: syntax error
+[Warn  - 오후 3:23:28] 06:23:28.110 WARNING ⛔️ file:///root/~/vscode/User/History/3ee4d9a3/1L7D.sh line 2: failed to resolve path
+[Warn  - 오후 3:23:28] 06:23:28.111 WARNING ⛔️ file:///root/~/vscode/User/History/3ee4d9a3/MVkF.sh line 2: failed to resolve path
+[Info  - 오후 3:23:28] 06:23:28.132 INFO BackgroundAnalysis: Completed after 0.464 seconds.
+[Warn  - 오후 3:23:28] 06:23:28.173 WARNING ⛔️ ShellCheck: disabling linting as no executable was found at path 'shellcheck'
+[Warn  - 오후 3:24:39] 06:24:39.885 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:24:53] 06:24:53.827 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:25:28] 06:25:28.338 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:26:35] 06:26:35.345 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:21] 06:28:21.686 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:22] 06:28:22.822 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:23] 06:28:23.064 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:23] 06:28:23.375 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:23] 06:28:23.622 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:25] 06:28:25.701 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:27] 06:28:27.693 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:28] 06:28:28.173 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:28] 06:28:28.283 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:29] 06:28:29.151 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:30] 06:28:30.519 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:30] 06:28:30.694 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:30] 06:28:30.796 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:31] 06:28:31.047 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:31] 06:28:31.399 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:31] 06:28:31.655 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:31] 06:28:31.975 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:32] 06:28:32.072 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:32] 06:28:32.292 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:41] 06:28:41.118 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:41] 06:28:41.733 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:42] 06:28:42.197 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:28:42] 06:28:42.453 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:03] 06:30:03.821 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:11] 06:30:11.180 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:12] 06:30:12.209 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:13] 06:30:13.612 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:13] 06:30:13.924 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:14] 06:30:14.373 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:16] 06:30:16.131 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:17] 06:30:17.154 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:18] 06:30:18.306 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:30:19] 06:30:19.043 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:33:27] 06:33:27.640 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error
+[Warn  - 오후 3:37:09] 06:37:09.145 WARNING ⛔️ Error while parsing file:///root/shell/server_check.sh: syntax error

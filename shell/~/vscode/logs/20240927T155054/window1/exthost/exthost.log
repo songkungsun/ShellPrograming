@@ -1,0 +1,19 @@
+2024-09-27 15:50:55.811 [info] Extension host with pid 23091 started
+2024-09-27 15:50:55.940 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-27 15:50:55.974 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-27 15:50:56.028 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-27 15:50:56.104 [info] Eager extensions activated
+2024-09-27 15:50:56.180 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:50:56.182 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:51:21.492 [info] Extension host terminating: renderer closed the MessagePort
+2024-09-27 15:51:21.507 [info] Extension host with pid 23091 exiting with code 0
+2024-09-27 15:51:31.795 [info] Extension host with pid 23167 started
+2024-09-27 15:51:31.795 [info] Skipping acquiring lock for /root/shell/~/vscode/User/workspaceStorage/1fcce66e8d95ed20a61b54f86064ecf2.
+2024-09-27 15:51:31.815 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-09-27 15:51:31.825 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-09-27 15:51:31.842 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-09-27 15:51:31.874 [info] Eager extensions activated
+2024-09-27 15:51:31.885 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:51:31.886 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-09-27 15:51:37.998 [info] ExtensionService#_doActivateExtension mads-hartmann.bash-ide-vscode, startup: false, activationEvent: 'onLanguage:shellscript'
+2024-09-27 15:51:38.063 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
